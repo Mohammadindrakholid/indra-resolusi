@@ -3,6 +3,7 @@ RENCANA KONTEN INDRA
   * ES6
   * Fremwork Javascript
     $ Vue
+    $ React
 - Structur Data Dasar
 - PHP Fremework
   *  Laravel
