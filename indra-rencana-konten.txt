@@ -2,7 +2,9 @@ RENCANA KONTEN INDRA
 - Javascript
   * ES6
   * Fremwork Javascript
-- Structur Data Dasar
+    $ Angular
+    $ React
 - PHP Fremework
+  * Laravel
 - Interview
 - Vlogs
