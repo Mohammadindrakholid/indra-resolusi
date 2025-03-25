@@ -1,0 +1,7 @@
+RENCANA KONTEN INDRA
+- Javascript
+  * ES6
+  * Fremwork Javascript
+- PHP Fremework
+- Interview
+- Vlogs
